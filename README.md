@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Shahd | IT & Security Student
 
-<!--
-**Shahd34/Shahd34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Budapest University of Technology and Economics** | BSc Computer Science Engineering
 
-Here are some ideas to get you started:
+I build hands-on labs to master enterprise IT infrastructure and security fundamentals.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Featured Projects
+
+### [Enterprise IT Infrastructure Lab](https://github.com/Shahd34/Enterprise-IT-Infrastructure-Lab)
+A simulated corporate Windows Server environment featuring:
+• Active Directory design with OUs & security groups
+• Group Policy for security automation
+• File services with NTFS permissions & quotas
+• FSRM for storage governance
+
+
+## 📫 Connect With Me
+- **Email:** shahdelalem2@gmail.com
+
+---
+*"The best way to learn is to build."*
