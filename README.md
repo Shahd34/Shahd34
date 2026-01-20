@@ -1,10 +1,10 @@
-# 👋 Hi, I'm Shahd | IT & Security Student
+# Hi, I'm Shahd | IT & Security Student
 
 **Budapest University of Technology and Economics** | BSc Computer Science Engineering
 
 I build hands-on labs to master enterprise IT infrastructure and security fundamentals.
 
-## 🛠️ Featured Projects
+## Featured Projects
 
 ### [Enterprise IT Infrastructure Lab](https://github.com/Shahd34/Enterprise-IT-Infrastructure-Lab)
 A simulated corporate Windows Server environment featuring:
@@ -14,7 +14,7 @@ A simulated corporate Windows Server environment featuring:
 • FSRM for storage governance
 
 
-## 📫 Connect With Me
+## Connect With Me
 - **Email:** shahdelalem2@gmail.com
 
 ---
